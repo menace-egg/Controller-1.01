@@ -6,3 +6,6 @@ I downloaded KiCad and set up wackatime.
 pathfinder session 2 - (40)
 What i did:
 Edited schematic
+At home -(60) 
+What I did:
+Finished schematic
