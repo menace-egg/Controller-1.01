@@ -9,3 +9,6 @@ Edited schematic
 At home -(60) 
 What I did:
 Finished schematic
+Session 3 (40)
+What I did:
+Started making my pcb on the editor
