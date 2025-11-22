@@ -12,3 +12,5 @@ Finished schematic
 Session 3 (40)
 What I did:
 Started making my pcb on the editor
+At home (40)
+Finished design and 3D editor.
