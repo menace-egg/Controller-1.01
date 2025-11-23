@@ -5,10 +5,13 @@ What I did:
 I downloaded KiCad and set up wackatime.
 pathfinder session 2 - (40)
 What i did:
-Edited schematic
+Edited schematic.
 At home -(60) 
 What I did:
-Finished schematic
+Finished schematic.
 Session 3 (40)
 What I did:
-Started making my pcb on the editor
+Started making my pcb on the editor.
+At home (45)
+What I did:
+Started and finished the Arduino code for the PCB.
