@@ -12,4 +12,3 @@ Finished schematic
 Session 3 (40)
 What I did:
 Started making my pcb on the editor
-<img width="1582" height="828" alt="3D Viewer 22_11_2025 19_40_40" src="https://github.com/user-attachments/assets/eed13152-c635-4c13-b314-1ac3c857f888" />
