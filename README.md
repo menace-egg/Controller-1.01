@@ -15,3 +15,4 @@ Started making my pcb on the editor.
 At home (45)
 What I did:
 Started and finished the Arduino code for the PCB.
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/77ff683a-acc1-44c2-953a-461956040d4b" />
