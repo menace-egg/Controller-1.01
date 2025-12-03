@@ -1,18 +1,18 @@
 # Controller-1.01
 Made for pathfinder.
-----Pathfinder session 1 - (40 minutes)
+#Pathfinder session 1 - (40 minutes)#
 What I did:
 I downloaded KiCad and set up Wackatime and started working on it.
-----Pathfinder session 2 - (40 minutes)
+Pathfinder session 2 - (40 minutes)
 What I did:
 Edited the schematic to start the project.
-----At home - (60 minutes) 
+At home - (60 minutes) 
 What I did:
-Finished the schematic and began to work on the PCB Editor.
-----Session 3 (40 minutes)
+Downloaded the programes on my home compuet, finished the schematic and began to work on the PCB Editor.
+Session 3 (40 minutes)
 What I did:
 Completed the PCB Editor and I did the 3D modelling.
-----At home (45 minutes)
+At home (45 minutes)
 What I did:
 Started and finished the Arduino code for the PCB.
 <img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/77ff683a-acc1-44c2-953a-461956040d4b" />
