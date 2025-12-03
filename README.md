@@ -1,5 +1,5 @@
 # Controller-1.01
-Made for pathfinder and to look cool.
+Made for pathfinder.
 ----Pathfinder session 1 - (40 minutes)
 What I did:
 I downloaded KiCad and set up wackatime and started working on it.
