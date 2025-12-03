@@ -2,16 +2,16 @@
 Made for pathfinder.
 ----Pathfinder session 1 - (40 minutes)
 What I did:
-I downloaded KiCad and set up wackatime and started working on it.
+I downloaded KiCad and set up Wackatime and started working on it.
 ----Pathfinder session 2 - (40 minutes)
 What I did:
 Edited the schematic to start the project.
 ----At home - (60 minutes) 
 What I did:
-Finished the schematic and began to wkr on the PCB Editor.
+Finished the schematic and began to work on the PCB Editor.
 ----Session 3 (40 minutes)
 What I did:
-Completed the PCB Editor editing and I did the 3D modelling.
+Completed the PCB Editor and I did the 3D modelling.
 ----At home (45 minutes)
 What I did:
 Started and finished the Arduino code for the PCB.
